@@ -8,10 +8,6 @@
 - syntax highlighting (Theme dark++)
 - supported languages : c++/c , java , javaScript. python
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
 ## Tech Stack
 - [Vue js] -  js framework 
 - [firebase] - backend by googleh
