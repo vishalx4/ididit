@@ -10,7 +10,7 @@
 
 ## Tech Stack
 - [Vue js] -  js framework 
-- [firebase] - backend by googleh
+- [firebase] - backend by google
 
 ## Screenshots
 ![Screenshot from 2021-05-25 20-22-11](https://user-images.githubusercontent.com/55027190/119519562-2ac1fe00-bd97-11eb-9b48-e2661104144a.png)
